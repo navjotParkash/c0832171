@@ -1,0 +1,2 @@
+#eliminates all the node dependencies before pushing to the git.
+node_modules
